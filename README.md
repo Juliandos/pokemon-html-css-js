@@ -35,6 +35,21 @@ Sigue estos pasos para configurar el proyecto en tu máquina local:
 
 3. Ejecuta el archivo index.html en un servidor como live server
 
+## Imágenes del Proyecto
+
+|                                  |
+|----------------------------------|
+| ![Imagen 1](https://github.com/Juliandos/pokemon-html-css-js/blob/main/Imagenes/2024-07-03_131144.jpg)|
+
+|                                  |                                 |
+|----------------------------------|---------------------------------|
+| ![Imagen 4](https://github.com/Juliandos/pokemon-html-css-js/blob/main/Imagenes/2024-07-03_131656.jpg) | ![Imagen 2](https://github.com/Juliandos/pokemon-html-css-js/blob/main/Imagenes/2024-07-03_131320.jpg) |
+
+|                                  |                                 |
+|----------------------------------|---------------------------------|
+| ![Imagen 3](https://github.com/Juliandos/pokemon-html-css-js/blob/main/Imagenes/2024-07-03_131357.jpg)| ![Imagen 5](https://github.com/Juliandos/pokemon-html-css-js/blob/main/Imagenes/2024-07-03_131227.jpg)|
+
+
 ## Contribuciones
 
 ¡Las contribuciones son bienvenidas! Si tienes alguna idea o encuentras un error, por favor abre un issue o envía un pull request.
